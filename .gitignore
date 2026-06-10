@@ -24,3 +24,4 @@ dist-ssr
 *.sw?
 memory.md
 ui-registry.md
+specs/ui/
